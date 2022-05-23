@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1653315545 source:c:\users\gtx computacion\desktop\programacion\parcial1\destino.c
+	"destino.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653317215 c:\users\gtx computacion\desktop\programacion\parcial1\destino.h
+
+1652279080 source:c:\users\gtx computacion\desktop\programacion\parcial1\empresa.c
+	"empresa.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653317215 c:\users\gtx computacion\desktop\programacion\parcial1\empresa.h
+
+1653270424 source:c:\users\gtx computacion\desktop\programacion\parcial1\fecha.c
+	"fecha.h"
+
+1653270424 c:\users\gtx computacion\desktop\programacion\parcial1\fecha.h
+
+1653316543 source:c:\users\gtx computacion\desktop\programacion\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"destino.h"
+	"empresa.h"
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"chofer.h"
+
+1653307843 c:\users\gtx computacion\desktop\programacion\parcial1\micro.h
+	"fecha.h"
+	"tipo.h"
+	"empresa.h"
+	"chofer.h"
+
+1653317215 c:\users\gtx computacion\desktop\programacion\parcial1\tipo.h
+
+1653315545 source:c:\users\gtx computacion\desktop\programacion\parcial1\micro.c
+	"micro.h"
+	"tipo.h"
+	"empresa.h"
+	"validaciones.h"
+	"chofer.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653315545 source:c:\users\gtx computacion\desktop\programacion\parcial1\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653314058 source:c:\users\gtx computacion\desktop\programacion\parcial1\viaje.c
+	"viaje.h"
+	"destino.h"
+	"empresa.h"
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653307699 c:\users\gtx computacion\desktop\programacion\parcial1\viaje.h
+	"destino.h"
+	"empresa.h"
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+
+1653307167 source:c:\users\gtx computacion\desktop\programacion\parcial1\validaciones.c
+	"validaciones.h"
+	"destino.h"
+	"empresa.h"
+	"micro.h"
+	"fecha.h"
+	"chofer.h"
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653307208 c:\users\gtx computacion\desktop\programacion\parcial1\validaciones.h
+	"destino.h"
+	"empresa.h"
+	"micro.h"
+	"tipo.h"
+	"chofer.h"
+
+1653317215 c:\users\gtx computacion\desktop\programacion\parcial1\chofer.h
+
+1653315545 source:c:\users\gtx computacion\desktop\programacion\parcial1\chofer.c
+	"chofer.h"
+	<stdio.h>
+	<stdlib.h>
+
+1653316182 source:c:\users\gtx computacion\desktop\programacion\parcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"destino.h"
+	"empresa.h"
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"chofer.h"
+	"informes.h"
+	"validaciones.h"
+
+1653314242 c:\users\gtx computacion\desktop\programacion\parcial1\informes.h
+
